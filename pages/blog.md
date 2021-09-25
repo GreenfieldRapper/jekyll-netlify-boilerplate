@@ -1,11 +1,10 @@
 ---
 layout: blog
-title: The Blog
+title: What I do
 permalink: /blog
 section: blog
-intro_paragraph: >
-  This is the Blog index page, listing each post with an
-  automatically generated post excerpt. It's a normal Jekyll page but uses
-  the `_layouts/blog.html` template to output the blog's posts after the page
-  content.
+intro_paragraph: My name is Greenfield. I like to write. This blog is a
+  manifestation of that. It's both a place for me to record my stories and
+  observations, and a repository for my work.
 ---
+My name is Greenfield. I like to write. This blog is a manifestation of that. It's both a place for me to record my stories and observations, and a repository for my work.
